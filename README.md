@@ -60,7 +60,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open `bhanu_project_1.ipynb` and run the cells in order. Update `META_PATH`, `IMG_DIR1`, and `IMG_DIR2` to match the locations of the downloaded metadata and extracted image folders.
+Open `1763945_Term_Paper.ipynb` and run the cells in order. Update `META_PATH`, `IMG_DIR1`, and `IMG_DIR2` to match the locations of the downloaded metadata and extracted image folders.
 
 The expected dataset files are:
 
