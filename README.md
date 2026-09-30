@@ -1,4 +1,4 @@
-# Prediction and XAI Robustness in Skin-Lesion Classification
+# Evaluating the Robustness of Explainable AI in CNNs and Vision Transformers under Small, Diagnosis-Preserving Image Perturbations
 
 This project compares ResNet18 and ViT-Tiny on HAM10000, with a primary focus on the stability of their explanation heatmaps under small changes to the input image. ResNet18 is explained using Grad-CAM, while ViT-Tiny is explained using attention rollout.
 
